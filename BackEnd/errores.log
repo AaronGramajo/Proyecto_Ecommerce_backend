@@ -1,0 +1,16 @@
+[2023-03-06T00:53:43.220] [ERROR] custom - product not found ReferenceError: error is not defined
+[2023-03-06T00:54:51.924] [ERROR] custom - product not found ReferenceError: error is not defined
+[2023-03-06T00:56:12.924] [ERROR] custom - product not found ReferenceError: error is not defined
+[2023-03-06T00:58:46.719] [ERROR] custom - product not found ReferenceError: error is not defined
+[2023-03-06T01:02:11.561] [ERROR] custom - problem adding item to cart TypeError: req.body.forEach is not a function
+[2023-03-06T01:14:06.431] [ERROR] custom - problem adding item to cart TypeError: req.body.forEach is not a function
+[2023-03-06T01:14:50.161] [ERROR] custom - problem adding item to cart TypeError: req.body.forEach is not a function
+[2023-03-06T01:15:30.380] [ERROR] custom - problem adding item to cart ReferenceError: _id is not defined
+[2023-03-06T01:18:51.615] [ERROR] custom - problem adding item to cart ReferenceError: _id is not defined
+[2023-03-06T01:25:26.024] [ERROR] custom - could not update product, TypeError: Cannot read properties of undefined (reading '_id')
+[2023-03-06T01:28:59.079] [ERROR] custom - could not update product, TypeError: Cannot read properties of undefined (reading '_id')
+[2023-03-06T01:33:49.773] [ERROR] custom - could not update product, TypeError: Cannot read properties of undefined (reading '_id')
+[2023-03-06T01:36:01.311] [ERROR] custom - could not update product, TypeError: Cannot read properties of undefined (reading '_id')
+[2023-03-06T01:36:14.981] [ERROR] custom - could not update product, TypeError: Cannot read properties of undefined (reading '_id')
+[2023-03-06T01:36:28.633] [ERROR] custom - could not update product, TypeError: Cannot read properties of undefined (reading '_id')
+[2023-03-06T01:37:42.136] [ERROR] custom - could not update product, TypeError: Cannot read properties of undefined (reading '_id')
