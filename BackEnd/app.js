@@ -9,7 +9,7 @@ const initServer = (app) => {
     app.use(bodyParser.json())
     app.use(urlencoded({extended:true}))
     
-    app.use('/.netlify/functions/api/products', routeProducts)
+    app.use('/.netlify/functions/server/api/products', routeProducts)
     app.all('*', (req, res) => {
         return res.status(404).send({
             Error: 'path not found'
